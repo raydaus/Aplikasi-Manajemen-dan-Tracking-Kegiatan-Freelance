@@ -24,3 +24,6 @@ tertinggi menggunakan Selection dan Insertion Sort.
 
 e. Sistem menampilkan laporan proyek yang sudah selesai dan yang masih berjalan
 dalam bentuk tabel atau ringkasan.
+
+
+NOTE: DO NOT INPUT ANY NUMBERS BELOW 0
